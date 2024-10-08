@@ -1,6 +1,6 @@
 # Cryptopals Challenges
 
-This repository contains solutions to the Cryptopals Crypto Challenges implemented in Go.
+This repository contains solutions to the [Cryptopals Crypto Challenges](https://www.cryptopals.com/) implemented in Go.
 
 ## Set 1: Basics
 
