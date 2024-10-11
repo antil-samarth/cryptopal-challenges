@@ -42,7 +42,7 @@ func challenge1_4() {
 	}
 
 	fmt.Println("Best matching line:", bestLine)
-	fmt.Print("Decrypted message:", bestDecrypted)
+	fmt.Print("Decrypted message: ", bestDecrypted)
 }
 
 func xorDecrypt(input []byte, key byte) []byte {
